@@ -9,7 +9,7 @@ I'm Java team lead at [Blockearner](http://blockearner.com.au)
 * 🌍  I'm temporarily based in Krakow, Poland 🇵🇱 (originally from Luhansk -> Kyiv, Ukraine 🇺🇦)
 * 🚀  I'm currently working on [Blockearner](http://blockearner.com.au)
 * 🧠  I constantly improve my knowledge in Java, Spring, Hibernate, microservices architecture
-* ✉️  You can contact using [Linkedin](https://www.linkedin.com/in/kobyliatskyi)
+* ✉️  You can contact me using [Linkedin](https://www.linkedin.com/in/kobyliatskyi)
 
 ### Skills
 
