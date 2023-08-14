@@ -7,7 +7,7 @@ I'm Java team lead at [Blockearner](http://blockearner.com.au)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 * 🌍  I'm temporarily based in Krakow, Poland 🇵🇱 (originally from Luhansk -> Kyiv, Ukraine 🇺🇦)
-* 🚀  I'm currently working on [Blockearner](http://blockearner.com.au)
+* 🚀  I'm currently working on [TruePlay](http://trueplay.io)
 * 🧠  I constantly improve my knowledge in Java, Spring, Hibernate, microservices architecture
 * ✉️  You can contact me using [Linkedin](https://www.linkedin.com/in/kobyliatskyi)
 
